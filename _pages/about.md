@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate • Biomedical Informatics • Stanford University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot.jpg
   image_circular: true
   more_info: >
     <p>Stanford University</p>
