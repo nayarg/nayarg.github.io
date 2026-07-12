@@ -44,7 +44,7 @@ Before Stanford, I worked at **IBM Research** as an ML Team Lead, designing larg
 
 ### Links
 - 🎓 **Google Scholar:** https://scholar.google.com/citations?user=FM9ICsEAAAAJ  
-- 💻 **GitHub:** https://github.com/gnayar  
+- 💻 **GitHub:** https://github.com/nayarg  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/gowrinayar  
 
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-07-08 09:00:00-0700
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper **GATSBI: Improving context-aware protein embeddings through biologically motivated data splits** was presented at **ISMB 2026** and appears in *Bioinformatics*. :dna:

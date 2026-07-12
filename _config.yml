@@ -26,7 +26,7 @@ back_to_top: true # set to false to disable the back to top button
 
 email: gnayar@stanford.edu
 github_username: "nayarg"
-linkedin_username: "gowri-nayar"
+linkedin_username: "gowrinayar"
 
 profile:
   image: assets/img/profile.jpg
@@ -291,8 +291,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Nayar]
+  first_name: [Gowri]
 
   style: apa
   locale: en
