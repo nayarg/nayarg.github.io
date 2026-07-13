@@ -32,3 +32,5 @@ My research develops **machine learning and network-based methods to understand 
 Previously, I was a machine learning team lead at **IBM Research**, where I designed large-scale genomic analysis systems and applied NLP and deep learning methods to biological sequence modeling.
 
 Broadly, I'm interested in graph representation learning for biology, protein function prediction, foundation models for proteomics, and network algorithms for pathway discovery.
+
+**Honors:** NIH F31 Fellowship (2024–2026) · Stanford Data Science Fellowship · Donald V. Jackson Fellowship
