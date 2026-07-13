@@ -31,4 +31,6 @@ My research focuses on understanding protein function and biological pathways th
 
 Previously, I was a machine learning team lead at IBM Research, where I designed large-scale genomic analysis systems and worked on NLP and deep learning for biological sequence modeling.
 
+You can download my CV [here](/assets/pdf/gnayar_CV_Jul2026.pdf).
+
 **Honors:** NIH F31 Fellowship (2024–2026) · Stanford Data Science Fellowship · Donald V. Jackson Fellowship
