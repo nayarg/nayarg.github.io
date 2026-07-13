@@ -1,55 +1,34 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
-subtitle: Ph.D. Candidate • Biomedical Informatics • Stanford University
+subtitle: Ph.D. Candidate in Biomedical Informatics, Stanford University
 
 profile:
   align: right
   image: headshot.jpg
-  image_circular: true
+  image_circular: true # crops the image to make it circular
   more_info: >
+    <p>Biomedical Informatics</p>
     <p>Stanford University</p>
-    <p>Helix Lab — Russ Altman Group</p>
-    <p>gnayar@stanford.edu</p>
+    <p>gnayar [at] stanford.edu</p>
 
-selected_papers: true
-social: true
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
 ---
 
-Hi — I’m **Gowri Nayar**, a Ph.D. candidate in Biomedical Informatics at Stanford University advised by **Russ Altman**.
+I'm **Gowri Nayar**, a Ph.D. candidate in Biomedical Informatics at Stanford University, advised by **Russ Altman**.
 
-My research develops **machine learning and network-based methods to understand protein function and pathways**, with a focus on the *understudied proteome*. I design graph neural networks, transformer models, and statistical benchmarks that translate large-scale proteomic and genomic data into biological insight.
+My research develops **machine learning and network-based methods to understand protein function and pathways**, with a focus on the *understudied proteome*. I build graph neural networks, protein language model methods, and statistical benchmarks that turn large-scale proteomic and genomic data into biological insight, and I collaborate closely with experimental scientists to validate predictions.
 
-Broadly, I’m interested in:
-- Graph representation learning for biology  
-- Protein function prediction  
-- Foundation models for proteomics  
-- Network algorithms for pathway discovery  
-- Bridging ML methods with experimental validation  
+Previously, I was a machine learning team lead at **IBM Research**, where I designed large-scale genomic analysis systems and applied NLP and deep learning methods to biological sequence modeling.
 
-I collaborate closely with experimental scientists to validate predictions through knock-out/knock-down studies and lead teams of students building state-of-the-art computational tools.
-
-Before Stanford, I worked at **IBM Research** as an ML Team Lead, designing large-scale genomic analysis systems and applying NLP and deep learning methods to biological sequence modeling.
-
----
-
-### Links
-- 🎓 **Google Scholar:** https://scholar.google.com/citations?user=FM9ICsEAAAAJ  
-- 💻 **GitHub:** https://github.com/nayarg  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/gowrinayar  
-
----
-
-### Honors
-- NIH F31 Fellowship (2024–2026)
-- Stanford Data Science Fellowship
-- Donald V. Jackson Fellowship
+Broadly, I'm interested in graph representation learning for biology, protein function prediction, foundation models for proteomics, and network algorithms for pathway discovery.

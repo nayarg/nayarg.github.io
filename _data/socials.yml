@@ -1,9 +1,8 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: # path to your CV PDF file (e.g. /assets/pdf/cv.pdf). Leave blank to hide the download button.
 email: gnayar@stanford.edu # your email address
+scholar_userid: FM9ICsEAAAAJ # your Google Scholar ID
 github_username: nayarg # your GitHub username
 linkedin_username: gowrinayar # your LinkedIn username
-scholar_userid: FM9ICsEAAAAJ # your Google Scholar ID
-rss_icon: false # set to true to show the RSS icon
+rss_icon: false # comment this line to hide the RSS icon
