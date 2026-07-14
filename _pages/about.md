@@ -7,10 +7,10 @@ subtitle: Ph.D. Candidate in Biomedical Informatics, Stanford University
 profile:
   align: right
   image: headshot.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # false = square/rectangular photo with rounded corners
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # icons are rendered near the top via the page content instead
 
 announcements:
   enabled: true # includes a list of news items
@@ -20,6 +20,10 @@ announcements:
 latest_posts:
   enabled: false
 ---
+
+<div class="social">
+  <div class="contact-icons">{% social_links %}</div>
+</div>
 
 Hi! I'm a Ph.D. candidate at Stanford University, where I'm advised by Prof. Russ Altman.
 
