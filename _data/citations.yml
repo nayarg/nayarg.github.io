@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-24'
 papers:
   FM9ICsEAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -41,6 +41,10 @@ papers:
     citations: 0
     title: Predicting antibiotic resistance and complementary antibiotic combinations
     year: '2021'
+  FM9ICsEAAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: 'Interpreting Protein Language Models: high attention sites predict functional regions'
+    year: '2026'
   FM9ICsEAAAAJ:UeHWp8X0CEIC:
     citations: 1
     title: Semi-supervised identification of sars-cov-2 molecular targets
@@ -74,7 +78,7 @@ papers:
     title: Longitudinal modeling of multimorbidity trajectories using large language models
     year: '2024'
   FM9ICsEAAAAJ:hqOjcs7Dif8C:
-    citations: 8
+    citations: 9
     title: 'Pool PaRTI: a PageRank-based pooling method for identifying critical residues and enhancing protein sequence representations'
     year: '2025'
   FM9ICsEAAAAJ:qjMakFHDy7sC:
