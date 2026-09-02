@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-09-02'
 papers:
   FM9ICsEAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -50,7 +50,7 @@ papers:
     title: Semi-supervised identification of sars-cov-2 molecular targets
     year: '2021'
   FM9ICsEAAAAJ:UebtZRa9Y70C:
-    citations: 15
+    citations: 16
     title: 'Paying attention to attention: High attention sites as indicators of protein family and function in language models'
     year: '2025'
   FM9ICsEAAAAJ:W7OEmFMy1HYC:
@@ -86,7 +86,7 @@ papers:
     title: 'ggMOB: elucidation of genomic conjugative features and associated cargo genes across bacterial genera using genus-genus mobilization networks'
     year: '2022'
   FM9ICsEAAAAJ:roLk4NBRz8UC:
-    citations: 5
+    citations: 6
     title: Material representation in computational systems
     year: '2022'
   FM9ICsEAAAAJ:u5HHmVD_uO8C:
